@@ -1,6 +1,6 @@
-# whatsapp-automation
+# Whatsapp-Automation
 <ul>
-<h6>Requirement</h6>
+<h3>Requirements:</h3>
     <li>Python 3.x required</li>
     <li>Python selenium</li>
     <li>Chrome webdriver</li>
