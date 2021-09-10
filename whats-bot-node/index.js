@@ -48,11 +48,7 @@ client.on("qr", qr => {
 
 
 const chats_enviar_message = [
-    //"5491131530061",
-    //"5491133629056", 
-    //"5491165133626", 
-    //"5491137888501",
-    //"5491164568687"
+    // Telephone numnbers
 ]
 client.on("ready", () => {
     console.log("Listo")
