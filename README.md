@@ -4,6 +4,7 @@
     <li>Python 3.x required</li>
     <li>Python selenium</li>
     <li>Chrome webdriver</li>
+    <li>Dependencies (node_modules) in folder "whats-bot-node" --> npm i or npm install</li>
 </ul>
 <ul>
     <li>Whatsapp-automation will allow you to send whatsapp message on whatsapp web.</li>
