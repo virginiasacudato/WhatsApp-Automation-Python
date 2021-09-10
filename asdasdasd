@@ -1,0 +1,24 @@
+- Mi carpeta
+ - Archivo.txt
+     -asd adsasd
+     -asd adsasd
+     -asd adsasd
+     -asd adsasd
+     -asd adsasd
+     -asd adsasd
+ - Archivo.txt
+     -asd adsasd
+     -asd adsasd
+     -asd adsasd
+     -asd adsasd
+     -asd adsasd
+     -asd adsasd
+
+
+
+Bot para leer los simis de X web, con selenium (No puedeser DB porque el jefe se pelio con el anterior programador)
+Iniciar sesion
+Ir a pedidos
+ _ TABLA DE PEDIDOS _
+ ITERAR LOS PEDIDOS _
+ ?ALGUNA CONDICION? PAGINACIön, SINGLE PAGE APPLICATION. 
